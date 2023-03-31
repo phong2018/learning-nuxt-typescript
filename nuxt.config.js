@@ -33,6 +33,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxt/typescript-build'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
